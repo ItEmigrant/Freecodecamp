@@ -18,3 +18,4 @@ let difficultSpelling = "Mississippi";
 let myRegex1 = /s+/ig; // Змініть цей рядок
 let result1 = difficultSpelling.match(myRegex);
 console.log (result)
+
